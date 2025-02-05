@@ -19,12 +19,15 @@ This is a **Bash and PostgreSQL-based** project for scheduling salon appointment
    cd salon-appointment-scheduler
    ```
 2. Import the database schema:
-   ```psql -U freecodecamp -d salon -f salon.sql
+   ```
+   psql -U freecodecamp -d salon -f salon.sql
    ```
 3. Make the script executable:
-   ```chmod +x salon.sh
+   ```
+   chmod +x salon.sh
    ```
 4. Run the script:
-   ```./salon.sh
+   ```
+   ./salon.sh
    ```
 
