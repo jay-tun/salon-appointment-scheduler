@@ -27,7 +27,6 @@ This is a **Bash and PostgreSQL-based** project for scheduling salon appointment
 
 ## Result 
 
-Completion 
 
 ![Project Completion Screenshot](success.png)
 
